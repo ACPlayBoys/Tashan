@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tashan</string>
+   
+
+    <string name="facebook_app_id">fb_id</string>
+    <string name="fb_login_protocol_scheme">fb(fb_id)</string>
+
+
+
+    <string name="ad_app_id">ca-app-pub-9983836261346059~8640447390</string>
+    <string name="my_Interstitial_Add">ca-app-pub-9983836261346059/1163065012</string>
+    <string name="banner_ad">ca-app-pub-9983836261346059/5822712367</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

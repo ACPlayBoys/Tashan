@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310547222127",
+    "firebase_url": "https://tashan-442e5.firebaseio.com",
+    "project_id": "tashan-442e5",
+    "storage_bucket": "tashan-442e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310547222127:android:ac7c06a44eb9dd52fac79a",
+        "android_client_info": {
+          "package_name": "com.play.Tashan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310547222127-5q9bb9d1gbe5jck0s1h0s5h7blp768ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.play.Tashan",
+            "certificate_hash": "cf986cebee47d5d226e51a6d1941c400352744bb"
+          }
+        },
+        {
+          "client_id": "310547222127-5im9s91osafvvh6kmrq0mca1i9q0ulcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbus5RUjJ30GDiWjUWap8j-MTrqjsXq5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310547222127-5im9s91osafvvh6kmrq0mca1i9q0ulcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
