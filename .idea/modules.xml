@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TikTok.iml" filepath="$PROJECT_DIR$/TikTok.iml" group="TikTok" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TikTok/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tashan.iml" filepath="$PROJECT_DIR$/.idea/modules/Tashan.iml" group="Tashan" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Tashan/app" />
     </modules>
   </component>
 </project>
